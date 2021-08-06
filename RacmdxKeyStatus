@@ -1,5 +1,5 @@
 	game.StarterGui:SetCore('SendNotification', {
 		Title    = 'Racmdx KeySystem',
-		Text     = ('Key Updated 8/5/21, Click GetKey'),
+		Text     = ('Key Updated 8/6/21, Click GetKey'),
 		Duration = 10,
 	})
