@@ -3,3 +3,5 @@
 		Text     = ('Key Updated 8/7/21, Click GetKey'),
 		Duration = 10,
 	})
+	local discord
+	setclipboard("https://file-link.net/193968/RacmdxKeyHere")
