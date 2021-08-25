@@ -1,1 +1,5 @@
-
+game.StarterGui:SetCore('SendNotification', {
+		Title    = 'Racmdx Admin Bypass',
+		Text     = ('Bypass Enabled, Welcome Admin!'),
+		Duration = 10,
+	})
