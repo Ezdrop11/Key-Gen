@@ -1,1 +1,1 @@
-Offline
+script.Parent.MainFrame.CheckingLabel.Text = "Offline"
