@@ -1,1 +1,2 @@
-local keys = {612F6F6EBC7B7 = true} warn(game:GetService('HttpService'):JSONEncode(keys))
+local keys = {612F6F6EBC7B7 = true} 
+warn(game:GetService('HttpService'):JSONEncode(keys))
