@@ -1,1 +1,1 @@
-Keys = "8CC925F8D1515"
+local keys = {key = true} warn(game:GetService('HttpService'):JSONEncode(keys))
